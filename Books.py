@@ -2,7 +2,7 @@
 CP1404 Assignment 1 - Books to Read
 Name: Roshik Maharjan
 Date Started: 20/10/2025
-GitHub URL: https://github.com/YOURUSERNAME/assignment1
+GitHub URL: https://github.com/Roshik-hub/a1-books-Roshik-hub.git
 """
 
 FILENAME = "books.csv"
@@ -169,3 +169,4 @@ def get_valid_book_number(books):
 
 if __name__ == '__main__':
    main()
+
